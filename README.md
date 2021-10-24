@@ -3,7 +3,7 @@ Welcome to my Github Profile. Here you can find some of my projects conducted ov
 
 🔭 I’m currently working on: **A Personal Website!**
 
-📫 How to reach me: 01danielwilliams@gmail.com
+📫 How to reach me: dwillia2@umbc.edu
 
 
 
